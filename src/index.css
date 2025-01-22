@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.flex-center{
+  @apply flex justify-center items-center;
+}
+.flex-center-col{
+  @apply flex flex-col justify-center items-center;
+}
+.flex-between{
+  @apply flex justify-between items-center;
+}
+.flex-between-col{
+  @apply flex flex-col justify-between items-center;
+}
+.padding-x{
+  @apply px-2 md:px-8 lg:px-12;
+}
+
+.custom-gradient{
+  @apply bg-gradient-to-br from-white/30 via-pink-300/40 via-white/30 via-blue-300/40 to-blue-400/30;
+}
