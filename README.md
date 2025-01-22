@@ -21,7 +21,7 @@ A responsive homepage designed using React and Tailwind CSS, based on the provid
 3. Run the development server: `npm run dev`
 
 ## Deployment
-Live URL: [Deployed Link](https://.com)
+Live URL: [Deployed Link](https://https://register-karo-five.vercel.app)
 =======
 # register-karo
 >>>>>>> 6e74e43e7b86a69ecadcf78bae0abadf33b21c9d
