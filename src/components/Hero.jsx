@@ -108,7 +108,7 @@ const Hero = () => {
 
       {/* SECTION 2 */}
       <div className="w-full lg:w-1/2 p-16  md:p-0 lg:p-10 xl:p-16">
-        <img src="/public/hero_image.webp" className="rounded-3xl md:h-[450px] w-full" alt="Hero" />
+        <img src="/hero_image.webp" className="rounded-3xl md:h-[450px] w-full" alt="Hero" />
       </div>
     </section>
   );

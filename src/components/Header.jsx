@@ -67,7 +67,7 @@ const Header = () => {
         <h1 className="flex-center text-dark-blue text-xl md:text-2xl font-bold">
           <img
             className="scale-[1.5] md:scale-[2]"
-            src="./public/logo.webp"
+            src="/logo.webp"
             alt="RegisterKaro"
           />
           Register<span className="text-yellow-500">Karo</span>{" "}
@@ -75,7 +75,7 @@ const Header = () => {
 
         <nav className="flex-center gap-4">
 
-          {/* for biiger screens */}
+          {/* for bigger screens */}
           <ul className="flex-center gap-3 lg:gap-8 max-md:hidden">
             {links.map((link) => (
               <li

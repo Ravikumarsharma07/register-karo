@@ -37,7 +37,7 @@ const AboutTeam = () => {
       {/* SECTION 2 */}
       <div className="w-full lg:w-[45%] p-16  md:p-0 lg:p-0 xl:p-0">
         <img
-          src="/public/team.png"
+          src="/team.png"
           className="rounded-3xl md:h-[450px] w-full"
           alt="AboutTeam"
         />

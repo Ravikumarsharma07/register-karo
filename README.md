@@ -1,6 +1,4 @@
 <<<<<<< HEAD
-# React + Vite
-
 # Register Karo Home Page
 
 A responsive homepage designed using React and Tailwind CSS, based on the provided Figma design.
