@@ -12,11 +12,11 @@ import React, { useState } from "react";
 
 const Header = () => {
   const links = [
-    { linkName: "Home", url: "/" },
-    { linkName: "Our Services", url: "/" },
-    { linkName: "Blog", url: "/" },
+    { linkName: "Home", url: "#home" },
+    { linkName: "Our Services", url: "#our-services" },
+    { linkName: "Blog", url: "#blog" },
     { linkName: "Contact Us", url: "/" },
-    { linkName: "About Us", url: "/" },
+    { linkName: "About Us", url: "#about-us" },
   ];
 
   const subLinks = [

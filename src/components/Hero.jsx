@@ -27,7 +27,7 @@ const Hero = () => {
   ]
 
   return (
-    <section class="relative h-max min-h-[90vh] flex max-lg:flex-col justify-center items-center gap-10 padding-x  bg-gradient-to-br from-white/30 via-pink-300/30 via-white/30 via-blue-300/40 to-blue-400/30">
+    <section id="home" className="relative  h-max min-h-[90vh] flex max-lg:flex-col justify-center items-center gap-10 padding-x  bg-gradient-to-br from-white/30 via-pink-300/30  to-blue-400/30">
       
       {/* Links  */}
       <div className="absolute top-[530px] md:top-16 right-0 flex-center-col gap-4 lg:gap-7">

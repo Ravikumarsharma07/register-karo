@@ -52,7 +52,7 @@ const OurServices = () => {
 
 
   return (
-    <section className='padding-x py-16 flex-center-col bg-[#FAFAFA]'>
+    <section id="our-services" className='padding-x py-16 flex-center-col bg-[#FAFAFA]'>
         <p className='text-lg text-orange-400'>WELCOME TO REGISTERKARO.IN</p>
         <h2 className='text-3xl font-semibold py-6'>Explore Our Services</h2>
 

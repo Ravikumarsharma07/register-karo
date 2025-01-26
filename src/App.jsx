@@ -4,6 +4,7 @@ import Header from "./components/Header"
 import Hero from "./components/Hero"
 import OurServices from "./components/OurServices"
 import TrustedBy from "./components/TrustedBy"
+import VideoIntro from "./components/VideoIntro"
 import WhyUs from "./components/WhyUs"
 
 
@@ -17,6 +18,7 @@ function App() {
   <OurServices/>
   <AboutTeam/>
   <WhyUs />
+  <VideoIntro/>
   <Footer />
     </>
   )

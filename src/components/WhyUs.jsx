@@ -63,9 +63,10 @@ const WhyUs = () => {
       style: "bg-yellow-700/20",
     },
   ];
+
   return (
-      <div className="grid items-center justify-items-center md:justify-items-end grid-cols-2 md:grid-cols-custom gap-x-8 gap-y-4  h-max min-h-[100vh] padding-x py-16">
-        <div className=" flex flex-col max-md:items-center gap-4 pb-10 max-md:col-span-2">
+      <div className="max-w-[1340px] content-center place-self-center grid items-center justify-items-center md:justify-items-end grid-cols-2 md:grid-cols-custom max-xl:gap-x-4 gap-y-8  h-max min-h-[100vh] padding-x py-16">
+        <div className=" flex flex-col max-md:items-center gap-4 md:pb-5 pl-10 max-lg:col-span-2">
           <p className="font-semibold text-[17px] text-orange-400 ">
             WHY TO REGISTERKARO.IN
           </p>

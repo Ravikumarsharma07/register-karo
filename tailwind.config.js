@@ -14,7 +14,10 @@ export default {
       },
       gridTemplateColumns:{
         "custom":"1.7fr 1fr 1fr",
-      }
+      },
+      backgroundImage: {
+        "gradient": "url('/public/gradient-bg.png')",
+      },
     },
   },
   plugins: [],

@@ -4,7 +4,7 @@ import {
 } from "lucide-react";
 const AboutTeam = () => {
   return (
-    <section class="relative h-max min-h-[100vh] flex max-md:flex-col justify-center items-center gap-10 padding-x ">
+    <section id="about-us" className="relative h-max min-h-[100vh] flex max-md:flex-col justify-center items-center gap-10 padding-x ">
       {/* FIRST SECTION */}
       <div className="w-full max-lg:pt-10 lg:pb-8 lg:w-[55%] flex flex-col max-md:items-center gap-5">
         <p className="font-semibold text-[17px] text-orange-400 ">
