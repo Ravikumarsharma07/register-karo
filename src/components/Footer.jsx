@@ -37,7 +37,7 @@ const Footer = () => {
         </div>
 
 
-        <div className="grid max-sm:gap-y-12 grid-cols-2 sm:grid-cols-4 gap-5 md:justify-items-end">
+        <div className="grid max-sm:gap-y-12 grid-cols-2 sm:grid-cols-4 gap-5 md:justify-items-start">
           <div className="flex flex-col text-cyan-50">
             <Subheading text={"START A BUSINESS"} />
             <FooterLinks text="How it works" url="#" />
